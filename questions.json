@@ -1,0 +1,8798 @@
+[
+  {
+    "question": {
+      "description": "Comida es a hambre como bebida es a ______",
+      "type": "TEXT",
+      "module_id": 1
+    },
+    "answers": [
+      {
+        "description": "sequedad",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "sed",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "agua",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "líquido",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "botella",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "lluvia es a gota como nieve es a ______",
+      "type": "TEXT",
+      "module_id": 1
+    },
+    "answers": [
+      {
+        "description": "nevada",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "granizo",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "copo",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "agua",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "frío",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "lejos es a allá como cerca es a ______",
+      "type": "TEXT",
+      "module_id": 1
+    },
+    "answers": [
+      {
+        "description": "acá",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "cercano",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "próximo",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "ahí",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "por aquí",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "decapitado es a cabeza como ______ a mano",
+      "type": "TEXT",
+      "module_id": 1
+    },
+    "answers": [
+      {
+        "description": "inválido",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "brazo",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "pie",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "manco",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "codo",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "barco es a pasajero como hotel es a ______",
+      "type": "TEXT",
+      "module_id": 1
+    },
+    "answers": [
+      {
+        "description": "visitante",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "viajante",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "paseante",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "veraneante",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "huésped",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "prado es a césped como calle es a ______",
+      "type": "TEXT",
+      "module_id": 1
+    },
+    "answers": [
+      {
+        "description": "carretera",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "coches",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "asfalto",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "peatones",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "aceras",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "luz es a ceguera como ______ es a sordera",
+      "type": "TEXT",
+      "module_id": 1
+    },
+    "answers": [
+      {
+        "description": "deficiencia",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "sonido",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "estruendo",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "orejas",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "aislamiento",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "ciclista es a _____ como levantador de pesas es a brazos",
+      "type": "TEXT",
+      "module_id": 1
+    },
+    "answers": [
+      {
+        "description": "caderas",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "pedales",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "bicicleta",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "pies",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "piernas",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "transparente es a claro como ______",
+      "type": "TEXT",
+      "module_id": 1
+    },
+    "answers": [
+      {
+        "description": "apelmazado",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "negruzco",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "traslúcido",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "opaco",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "sólido",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "tartamudear es a hablar como tropezar es a ______",
+      "type": "TEXT",
+      "module_id": 1
+    },
+    "answers": [
+      {
+        "description": "caminar",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "pie",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "engancharse",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "obstaculizar",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "empujar",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "ingerir es a estómago como inspirar es a ______",
+      "type": "TEXT",
+      "module_id": 1
+    },
+    "answers": [
+      {
+        "description": "oxígeno",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "pulmones",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "respiración",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "espirar",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "tráquea",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "cerrar es a _____ como abrir es a facilitar",
+      "type": "TEXT",
+      "module_id": 1
+    },
+    "answers": [
+      {
+        "description": "destapar",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "quitar",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "clausurar",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "impedir",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "dificultar",
+        "type": "TEXT",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "profetisa es a futuro como ______ es a pasado",
+      "type": "TEXT",
+      "module_id": 1
+    },
+    "answers": [
+      {
+        "description": "historiadora",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "anciana",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "antigüedad",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "previo",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "Edad Media",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "planta es a raíces como edificio es a ______",
+      "type": "TEXT",
+      "module_id": 1
+    },
+    "answers": [
+      {
+        "description": "muros",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "vigas",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "cimientos",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "sótano",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "paredes",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "constelación es a estrella como archipiélago es a _____",
+      "type": "TEXT",
+      "module_id": 1
+    },
+    "answers": [
+      {
+        "description": "bahía",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "isla",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "mar",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "península",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "continente",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "escudo es a ______ como lanza es a ataque",
+      "type": "TEXT",
+      "module_id": 1
+    },
+    "answers": [
+      {
+        "description": "muralla",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "tapar",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "retaguardia",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "defensa",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "espera",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "ciudad es a barrio como bosque es a ______",
+      "type": "TEXT",
+      "module_id": 1
+    },
+    "answers": [
+      {
+        "description": "selva",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "álamo",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "árbol",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "arbusto",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "arboleda",
+        "type": "TEXT",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "caparazón es a tortuga como ______ es a tronco de árbol",
+      "type": "TEXT",
+      "module_id": 1
+    },
+    "answers": [
+      {
+        "description": "corteza",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "copa",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "ramas",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "dureza",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "madera",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "aconsejar es a obligar como proponer es a ______",
+      "type": "TEXT",
+      "module_id": 1
+    },
+    "answers": [
+      {
+        "description": "practicar",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "indisponer",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "quitar",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "imponer",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "pronosticar",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "botánica es a ______ como zoóloga es a fauna",
+      "type": "TEXT",
+      "module_id": 1
+    },
+    "answers": [
+      {
+        "description": "biología",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "cultivo",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "flora",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "árbol",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "bosques",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "corroer es a ______ como restaurar es a conservar",
+      "type": "TEXT",
+      "module_id": 1
+    },
+    "answers": [
+      {
+        "description": "pasar el tiempo",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "deteriorar",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "reparar",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "roer",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "oxidar",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "libro es a ______ como zoóloga es a fauna",
+      "type": "TEXT",
+      "module_id": 1
+    },
+    "answers": [
+      {
+        "description": "biología",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "cultivo",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "flora",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "árbol",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "bosques",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "cuadraro es a ______ como cubo es a volumen",
+      "type": "TEXT",
+      "module_id": 1
+    },
+    "answers": [
+      {
+        "description": "superficie",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "lados",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "ángulos",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "longitud",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "líneas rectas",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "reina es a súbdito como alcaldesa es a ______",
+      "type": "TEXT",
+      "module_id": 1
+    },
+    "answers": [
+      {
+        "description": "alcaldía",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "ciudad",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "cuidadano",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "trabajador",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "secretario",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "rodilla es a pie como codo es a ______",
+      "type": "TEXT",
+      "module_id": 1
+    },
+    "answers": [
+      {
+        "description": "cuerpo",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "muñeca",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "hombro",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "mano",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "brazo",
+        "type": "TEXT",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "valla es a cerramiento como dique es a ______",
+      "type": "TEXT",
+      "module_id": 1
+    },
+    "answers": [
+      {
+        "description": "abastecimiento",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "torrente",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "inundación",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "laguna",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "contención",
+        "type": "TEXT",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "calor es a evaporación como frío es a ______",
+      "type": "TEXT",
+      "module_id": 1
+    },
+    "answers": [
+      {
+        "description": "nevada",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "condensación",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "solidificación",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "hielo",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "invierno",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "disputar es a debatir como nítido es a ______",
+      "type": "TEXT",
+      "module_id": 1
+    },
+    "answers": [
+      {
+        "description": "oscuro",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "viable",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "visible",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "claro",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "blanco",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "actor es a teatro como editor es a ______",
+      "type": "TEXT",
+      "module_id": 1
+    },
+    "answers": [
+      {
+        "description": "enciclopedia",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "lectura",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "imprenta",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "libreria",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "novela",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "trágico es a ______ como perder es a ganar",
+      "type": "TEXT",
+      "module_id": 1
+    },
+    "answers": [
+      {
+        "description": "triste",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "dramático",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "muerte",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "desgracia",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "cómico",
+        "type": "TEXT",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "estéril es a ______ como fértil es a supervivencia",
+      "type": "TEXT",
+      "module_id": 1
+    },
+    "answers": [
+      {
+        "description": "extinción",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "fecundo",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "división",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "promoción",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "aridez",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "actividad es a movimiento como ______ es a quietud",
+      "type": "TEXT",
+      "module_id": 1
+    },
+    "answers": [
+      {
+        "description": "dinamismo",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "vacación",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "letargo",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "fósil",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "ajetreo",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "13    15    17    19",
+      "type": "TEXT",
+      "module_id": 2
+    },
+    "answers": [
+      {
+        "description": "18",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "22",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "21",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "20",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "otra distinta",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "23     23     19    19    15",
+      "type": "TEXT",
+      "module_id": 2
+    },
+    "answers": [
+      {
+        "description": "14",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "12",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "11",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "15",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "otra distinta",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "20    25    30    35",
+      "type": "TEXT",
+      "module_id": 2
+    },
+    "answers": [
+      {
+        "description": "36",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "40",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "45",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "38",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "otra distinta",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "16    13    10    7    4",
+      "type": "TEXT",
+      "module_id": 2
+    },
+    "answers": [
+      {
+        "description": "1",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "0",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "3",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "2",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "otra distinta",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "4    4½    9    9½    19",
+      "type": "TEXT",
+      "module_id": 2
+    },
+    "answers": [
+      {
+        "description": "38",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "29½",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "20",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "19½",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "otra distinta",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "1,2    2,3    3,4    4,5",
+      "type": "TEXT",
+      "module_id": 2
+    },
+    "answers": [
+      {
+        "description": "4,6",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "5,6",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "5,5",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "6,5",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "otra distinta",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "4    8    8    16    16    32    32",
+      "type": "TEXT",
+      "module_id": 2
+    },
+    "answers": [
+      {
+        "description": "48",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "62",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "64",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "96",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "otra distinta",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "6,6    7    7,4    7,8    8,2",
+      "type": "TEXT",
+      "module_id": 2
+    },
+    "answers": [
+      {
+        "description": "8,6",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "8,5",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "8,8",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "9",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "otra distinta",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "64    32    16    8",
+      "type": "TEXT",
+      "module_id": 2
+    },
+    "answers": [
+      {
+        "description": "0",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "6",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "2",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "4",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "otra distinta",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "8    6½    6    4½",
+      "type": "TEXT",
+      "module_id": 2
+    },
+    "answers": [
+      {
+        "description": "4",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "1½",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "3",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "2½",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "otra distinta",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "2,2    1,8    1,4    1",
+      "type": "TEXT",
+      "module_id": 2
+    },
+    "answers": [
+      {
+        "description": "0",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "0,6",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "0,5",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "0,8",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "otra distinta",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "6    12    14    28    30    60",
+      "type": "TEXT",
+      "module_id": 2
+    },
+    "answers": [
+      {
+        "description": "120",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "62",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "90",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "64",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "otra distinta",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "24    20    40    36    72",
+      "type": "TEXT",
+      "module_id": 2
+    },
+    "answers": [
+      {
+        "description": "68",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "66",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "84",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "144",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "otra distinta",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "1,1    1,3    1,7    1,9    2,3",
+      "type": "TEXT",
+      "module_id": 2
+    },
+    "answers": [
+      {
+        "description": "2,6",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "2,4",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "2,5",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "2,7",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "otra distinta",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "2    4    5    10    11    22    23",
+      "type": "TEXT",
+      "module_id": 2
+    },
+    "answers": [
+      {
+        "description": "24",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "48",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "34",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "12",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "otra distinta",
+        "type": "TEXT",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "60    40    42    22    24",
+      "type": "TEXT",
+      "module_id": 2
+    },
+    "answers": [
+      {
+        "description": "4",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "12",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "26",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "20",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "otra distinta",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "6,4    7,2    8    8,8",
+      "type": "TEXT",
+      "module_id": 2
+    },
+    "answers": [
+      {
+        "description": "9,8",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "9,6",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "9",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "9,4",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "otra distinta",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "6    12    10    20    18",
+      "type": "TEXT",
+      "module_id": 2
+    },
+    "answers": [
+      {
+        "description": "24",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "40",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "38",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "34",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "otra distinta",
+        "type": "TEXT",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "24    23¾    23½    23¼    23",
+      "type": "TEXT",
+      "module_id": 2
+    },
+    "answers": [
+      {
+        "description": "21¼",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "21",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "21¾",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "22¾",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "otra distinta",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "60    51    43    36    30",
+      "type": "TEXT",
+      "module_id": 2
+    },
+    "answers": [
+      {
+        "description": "24",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "26",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "23",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "25",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "otra distinta",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "16    8    12    6     10    5    9",
+      "type": "TEXT",
+      "module_id": 2
+    },
+    "answers": [
+      {
+        "description": "9½",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "9",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "4½",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "13",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "otra distinta",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "6    4,8    3,6    2,4",
+      "type": "TEXT",
+      "module_id": 2
+    },
+    "answers": [
+      {
+        "description": "1,2",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "1,4",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "2",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "1",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "otra distinta",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "6    6    8    8    11    11    15    15",
+      "type": "TEXT",
+      "module_id": 2
+    },
+    "answers": [
+      {
+        "description": "15",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "19",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "20",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "21",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "otra distinta",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "1    10    5    50    25",
+      "type": "TEXT",
+      "module_id": 2
+    },
+    "answers": [
+      {
+        "description": "2500",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "250",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "125",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "12.5",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "otra distinta",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "2,1    4,2    8,4",
+      "type": "TEXT",
+      "module_id": 2
+    },
+    "answers": [
+      {
+        "description": "14,6",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "17",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "16,8",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "12,6",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "otra distinta",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "4    12    6    18    9    27",
+      "type": "TEXT",
+      "module_id": 2
+    },
+    "answers": [
+      {
+        "description": "81",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "54",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "6",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "13½",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "otra distinta",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "7½    15    10    20    15",
+      "type": "TEXT",
+      "module_id": 2
+    },
+    "answers": [
+      {
+        "description": "20",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "25",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "40",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "30",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "otra distinta",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "2,5    5    6,5    13    14,5",
+      "type": "TEXT",
+      "module_id": 2
+    },
+    "answers": [
+      {
+        "description": "28",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "30,5",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "16",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "17,5",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "otra distinta",
+        "type": "TEXT",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "3    3    6    5    5    5    15    7    7    7",
+      "type": "TEXT",
+      "module_id": 2
+    },
+    "answers": [
+      {
+        "description": "28",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "7",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "8",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "14",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "otra distinta",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "2¼    3    3¾    4½",
+      "type": "TEXT",
+      "module_id": 2
+    },
+    "answers": [
+      {
+        "description": "5½",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "5¾ ",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "5¼",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "5",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "otra distinta",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "28    20    14    10",
+      "type": "TEXT",
+      "module_id": 2
+    },
+    "answers": [
+      {
+        "description": "8",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "7",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "9",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "6",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "otra distinta",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "3    3    9    8    4    4    16    15    5    5",
+      "type": "TEXT",
+      "module_id": 2
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod3/question-31.jpg",
+      "module_id": 3
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod3/answer-311.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-312.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-313.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-314.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-315.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod3/question-32.jpg",
+      "module_id": 3
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-321.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-322.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-323.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod3/answer-324.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-325.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod3/question-33.jpg",
+      "module_id": 3
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-331.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-332.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-333.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod3/answer-334.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-335.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod3/question-34.jpg",
+      "module_id": 3
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-341.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-342.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod3/answer-343.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-344.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-345.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod3/question-35.jpg",
+      "module_id": 3
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-351.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-352.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-353.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-354.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod3/answer-355.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod3/question-36.jpg",
+      "module_id": 3
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-361.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-362.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod3/answer-363.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-364.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-365.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod3/question-37.jpg",
+      "module_id": 3
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-371.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod3/answer-372.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-373.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-374.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-375.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod3/question-38.jpg",
+      "module_id": 3
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-381.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-382.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-383.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-384.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod3/answer-385.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod3/question-39.jpg",
+      "module_id": 3
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-391.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-392.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod3/answer-393.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-394.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-395.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod3/question-310.jpg",
+      "module_id": 3
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod3/answer-3101.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3102.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3103.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3104.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3105.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod3/question-311.jpg",
+      "module_id": 3
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod3/answer-3111.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3112.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3113.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3114.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3115.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod3/question-312.jpg",
+      "module_id": 3
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3121.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3122.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3123.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod3/answer-3124.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3125.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod3/question-313.jpg",
+      "module_id": 3
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3131.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3132.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3133.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3134.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod3/answer-3135.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod3/question-314.jpg",
+      "module_id": 3
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod3/answer-3141.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3142.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3143.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3144.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3145.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod3/question-315.jpg",
+      "module_id": 3
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3151.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3152.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod3/answer-3153.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3154.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3155.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod3/question-316.jpg",
+      "module_id": 3
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod3/answer-3161.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3162.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3163.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3164.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3165.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod3/question-317.jpg",
+      "module_id": 3
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3171.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3172.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3173.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3174.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod3/answer-3175.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod3/question-318.jpg",
+      "module_id": 3
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod3/answer-3181.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3182.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3183.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3184.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3185.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod3/question-319.jpg",
+      "module_id": 3
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3191.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3192.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3193.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3194.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod3/answer-3195.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod3/question-320.jpg",
+      "module_id": 3
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod3/answer-3201.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3202.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3203.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3204.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3205.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod3/question-321.jpg",
+      "module_id": 3
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3211.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3212.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3213.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod3/answer-3214.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3215.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod3/question-322.jpg",
+      "module_id": 3
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3221.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod3/answer-3222.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3223.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3224.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3225.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod3/question-323.jpg",
+      "module_id": 3
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3231.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3232.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3233.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3234.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod3/answer-3235.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod3/question-324.jpg",
+      "module_id": 3
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3241.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod3/answer-3242.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3243.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3244.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3245.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod3/question-325.jpg",
+      "module_id": 3
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3251.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3252.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod3/answer-3253.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3254.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3255.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod3/question-326.jpg",
+      "module_id": 3
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3261.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3262.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3263.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod3/answer-3264.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3265.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod3/question-327.jpg",
+      "module_id": 3
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3271.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod3/answer-3272.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3273.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3274.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3275.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod3/question-328.jpg",
+      "module_id": 3
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3281.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3282.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod3/answer-3283.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3284.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3285.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod3/question-329.jpg",
+      "module_id": 3
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3291.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3292.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3293.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod3/answer-3294.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3295.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod3/question-330.jpg",
+      "module_id": 3
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3301.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod3/answer-3302.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3303.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3304.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3305.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod3/question-331.jpg",
+      "module_id": 3
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3311.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod3/answer-3312.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3313.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3314.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3315.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod3/question-332.jpg",
+      "module_id": 3
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3321.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod3/answer-3322.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3323.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3324.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod3/answer-3325.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Sólo podemos ______ algo cuando tenemos dinero o nos lo prestan.",
+      "type": "TEXT",
+      "module_id": 4
+    },
+    "answers": [
+      {
+        "description": "vender",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "vivir",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "devolver",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "comprar",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "cambiar",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Si  ______ una cita es porque queremos encontrarnos con alguien .",
+      "type": "TEXT",
+      "module_id": 4
+    },
+    "answers": [
+      {
+        "description": "encontramos",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "olvidamos",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "obtenemos",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "recordamos",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "concertamos",
+        "type": "TEXT",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Una vez cumplida la pena, los presos ______ la libertad.",
+      "type": "TEXT",
+      "module_id": 4
+    },
+    "answers": [
+      {
+        "description": "empiezan",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "recobran",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "escogen",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "desencadenan",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "necesitan",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "El pueblo se encontraba inundado por el ______ del río.",
+      "type": "TEXT",
+      "module_id": 4
+    },
+    "answers": [
+      {
+        "description": "ensanche",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "mal estado",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "afluente",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "desbordamiento",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "cauce",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Siempre será ______ quedarse tuerto a quedarse ciego.",
+      "type": "TEXT",
+      "module_id": 4
+    },
+    "answers": [
+      {
+        "description": "preferible",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "mejorable",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "una elección",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "visible",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "ocasional.",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "No deberíamos tener reparo en ______ nuestras equivocaciones",
+      "type": "TEXT",
+      "module_id": 4
+    },
+    "answers": [
+      {
+        "description": "mejorar",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "divulgar",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "silenciar",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "reconocer",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "contabilizar",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Es imposible que dos personas sean totalmente ______",
+      "type": "TEXT",
+      "module_id": 4
+    },
+    "answers": [
+      {
+        "description": "fuertes",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "decididas",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "idénticas",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "parecidas",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "virtuosas",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Cuando ______ conseguir algo, es que aún no lo poseemos",
+      "type": "TEXT",
+      "module_id": 4
+    },
+    "answers": [
+      {
+        "description": "llegamos a",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "permitimos",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "alcanzamos a",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "nos alegramos de",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "aspiramos a",
+        "type": "TEXT",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Lamentarse de desastres es ______ si no se toman medidas para prevenirlos.",
+      "type": "TEXT",
+      "module_id": 4
+    },
+    "answers": [
+      {
+        "description": "nefasto",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "contradictorio",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "inútil",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "vulgar",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "triste",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "El mundo está ______ un gran desarrollo tecnológico.",
+      "type": "TEXT",
+      "module_id": 4
+    },
+    "answers": [
+      {
+        "description": "perdiendo",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "malgastando",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "dirigiendo",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "destacando",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "alcanzando",
+        "type": "TEXT",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Es más fácil ______ las cosas cuando se buscan activamente",
+      "type": "TEXT",
+      "module_id": 4
+    },
+    "answers": [
+      {
+        "description": "perder",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "olvidar",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "precisar",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "encontrar",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "organizar",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Dejará de ser misterioso todo lo que podamos ______",
+      "type": "TEXT",
+      "module_id": 4
+    },
+    "answers": [
+      {
+        "description": "señalar",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "pensar",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "explicar",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "cambiar",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "prevenir",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Todo lo que se fabrica es ______",
+      "type": "TEXT",
+      "module_id": 4
+    },
+    "answers": [
+      {
+        "description": "superficial",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "antinatural",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "frágil",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "incompleto",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "artificial",
+        "type": "TEXT",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Tener ______ suele mantener la esperanza de muchas personas",
+      "type": "TEXT",
+      "module_id": 4
+    },
+    "answers": [
+      {
+        "description": "posesiones",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "ánimos",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "estudios",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "ilusiones",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "tranquilidad",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "La poca cultura suele ser causa ______ de muchos países",
+      "type": "TEXT",
+      "module_id": 4
+    },
+    "answers": [
+      {
+        "description": "del atraso",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "del desarrollo",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "del derroche",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "de la agresividad",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "del escándalo",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Las leyes sirven para ______ la convivencia en una sociedad",
+      "type": "TEXT",
+      "module_id": 4
+    },
+    "answers": [
+      {
+        "description": "animar",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "regular",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "declarar",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "destacar",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "prevenir",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "La barca ______ en un arrecife, debido al fuerte viento rei nante",
+      "type": "TEXT",
+      "module_id": 4
+    },
+    "answers": [
+      {
+        "description": "encalló",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "se desplazó",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "viró",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "atracó",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "tropezó",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Si lo sometemos ______, sabremos qué piensan los asistentes a la reunión.",
+      "type": "TEXT",
+      "module_id": 4
+    },
+    "answers": [
+      {
+        "description": "a juicio",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "a debate",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "a examen",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "a prueba",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "a decisión",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Para que podamos recordar algo, antes debemos haberlo ______",
+      "type": "TEXT",
+      "module_id": 4
+    },
+    "answers": [
+      {
+        "description": "aprendido",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "practicado",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "visto",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "deseado",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "escuchado",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "A mediodía, todas las nubes producen ______",
+      "type": "TEXT",
+      "module_id": 4
+    },
+    "answers": [
+      {
+        "description": "el cielo",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "calor",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "evaporación",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "sombra",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "lluvia",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "No puede haber diálogo cuando el ______ no desea hablar",
+      "type": "TEXT",
+      "module_id": 4
+    },
+    "answers": [
+      {
+        "description": "fracasado",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "negligente",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "extraño",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "interlocutor",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "amigo",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "La imaginación nos permite ______ lo ausente",
+      "type": "TEXT",
+      "module_id": 4
+    },
+    "answers": [
+      {
+        "description": "representar",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "devolver",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "memorizar",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "razonar",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "redibujar",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "La libertad de una persona ______ donde empiezan los derechos de las demás.",
+      "type": "TEXT",
+      "module_id": 4
+    },
+    "answers": [
+      {
+        "description": "comienza",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "desciende",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "termina",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "radica",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "cambia",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Ilusionarnos ______ nos impide ver objetivamente la realidad",
+      "type": "TEXT",
+      "module_id": 4
+    },
+    "answers": [
+      {
+        "description": "previamente",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "en exceso",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "antes",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "siempre",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "de lo imposible",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Practicar un deporte ______ una vida más sana.",
+      "type": "TEXT",
+      "module_id": 4
+    },
+    "answers": [
+      {
+        "description": "anticipa",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "propicia",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "predetermina",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "multiplica",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "escoge",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Mostró su disconformidad por el ______ confuso seguido en la votación.",
+      "type": "TEXT",
+      "module_id": 4
+    },
+    "answers": [
+      {
+        "description": "engaño",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "aplazamiento",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "cambio",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "espacio",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "procedimiento",
+        "type": "TEXT",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Las experiencias positivas y negativas son ______",
+      "type": "TEXT",
+      "module_id": 4
+    },
+    "answers": [
+      {
+        "description": "imposibles.",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "evitables",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "contrapuestas",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "dudosas",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "duras",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "En los momentos difíciles se comprueban las grandes ______",
+      "type": "TEXT",
+      "module_id": 4
+    },
+    "answers": [
+      {
+        "description": "virtudes",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "penas",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "aspiraciones",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "esperanzas",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "hazañas",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "No podemos ______ lo que todavía no poseemos.",
+      "type": "TEXT",
+      "module_id": 4
+    },
+    "answers": [
+      {
+        "description": "negociar",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "esperar",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "donar",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "adquirir",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "despreciar",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Las personas ______ muchas veces no manifiestan sus verdaderas intenciones.",
+      "type": "TEXT",
+      "module_id": 4
+    },
+    "answers": [
+      {
+        "description": "reflexivas",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "astutas",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "antipáticas",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "elegantes",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "introvertidas",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Compara las cantidades resultantes de resolver problemas numéricos, para ver cuál es la MAYOR. Cuando las dos den un resultado igual, la respuesta correcta será la tercera alternativa, IGUALES.",
+      "type": "TEXT",
+      "module_id": 5
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod5/answer-511.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod6/answer-512.jpg"
+      },
+      {
+        "description": "IGUALES",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Compara las cantidades resultantes de resolver problemas numéricos, para ver cuál es la MAYOR. Cuando las dos den un resultado igual, la respuesta correcta será la tercera alternativa, IGUALES.",
+      "type": "TEXT",
+      "module_id": 5
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod5/answer-521.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-522.jpg"
+      },
+      {
+        "description": "IGUALES",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Compara las cantidades resultantes de resolver problemas numéricos, para ver cuál es la MAYOR. Cuando las dos den un resultado igual, la respuesta correcta será la tercera alternativa, IGUALES.",
+      "type": "TEXT",
+      "module_id": 5
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod5/answer-531.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod6/answer-532.jpg"
+      },
+      {
+        "description": "IGUALES",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Compara las cantidades resultantes de resolver problemas numéricos, para ver cuál es la MAYOR. Cuando las dos den un resultado igual, la respuesta correcta será la tercera alternativa, IGUALES.",
+      "type": "TEXT",
+      "module_id": 5
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod5/answer-541.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-542.jpg"
+      },
+      {
+        "description": "IGUALES",
+        "type": "TEXT",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Compara las cantidades resultantes de resolver problemas numéricos, para ver cuál es la MAYOR. Cuando las dos den un resultado igual, la respuesta correcta será la tercera alternativa, IGUALES.",
+      "type": "TEXT",
+      "module_id": 5
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod5/answer-551.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-552.jpg"
+      },
+      {
+        "description": "IGUALES",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Compara las cantidades resultantes de resolver problemas numéricos, para ver cuál es la MAYOR. Cuando las dos den un resultado igual, la respuesta correcta será la tercera alternativa, IGUALES.",
+      "type": "TEXT",
+      "module_id": 5
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod5/answer-561.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod6/answer-562.jpg"
+      },
+      {
+        "description": "IGUALES",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Compara las cantidades resultantes de resolver problemas numéricos, para ver cuál es la MAYOR. Cuando las dos den un resultado igual, la respuesta correcta será la tercera alternativa, IGUALES.",
+      "type": "TEXT",
+      "module_id": 5
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod5/answer-571.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-572.jpg"
+      },
+      {
+        "description": "IGUALES",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Compara las cantidades resultantes de resolver problemas numéricos, para ver cuál es la MAYOR. Cuando las dos den un resultado igual, la respuesta correcta será la tercera alternativa, IGUALES.",
+      "type": "TEXT",
+      "module_id": 5
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod5/answer-581.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-582.jpg"
+      },
+      {
+        "description": "IGUALES",
+        "type": "TEXT",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Compara las cantidades resultantes de resolver problemas numéricos, para ver cuál es la MAYOR. Cuando las dos den un resultado igual, la respuesta correcta será la tercera alternativa, IGUALES.",
+      "type": "TEXT",
+      "module_id": 5
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod5/answer-591.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-592.jpg"
+      },
+      {
+        "description": "IGUALES",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Compara las cantidades resultantes de resolver problemas numéricos, para ver cuál es la MAYOR. Cuando las dos den un resultado igual, la respuesta correcta será la tercera alternativa, IGUALES.",
+      "type": "TEXT",
+      "module_id": 5
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod5/answer-5101.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-5102.jpg"
+      },
+      {
+        "description": "IGUALES",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Compara las cantidades resultantes de resolver problemas numéricos, para ver cuál es la MAYOR. Cuando las dos den un resultado igual, la respuesta correcta será la tercera alternativa, IGUALES.",
+      "type": "TEXT",
+      "module_id": 5
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod5/answer-5111.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-5112.jpg"
+      },
+      {
+        "description": "IGUALES",
+        "type": "TEXT",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Compara las cantidades resultantes de resolver problemas numéricos, para ver cuál es la MAYOR. Cuando las dos den un resultado igual, la respuesta correcta será la tercera alternativa, IGUALES.",
+      "type": "TEXT",
+      "module_id": 5
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod5/answer-5121.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod6/answer-5122.jpg"
+      },
+      {
+        "description": "IGUALES",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Compara las cantidades resultantes de resolver problemas numéricos, para ver cuál es la MAYOR. Cuando las dos den un resultado igual, la respuesta correcta será la tercera alternativa, IGUALES.",
+      "type": "TEXT",
+      "module_id": 5
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod5/answer-5131.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod6/answer-5132.jpg"
+      },
+      {
+        "description": "IGUALES",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Compara las cantidades resultantes de resolver problemas numéricos, para ver cuál es la MAYOR. Cuando las dos den un resultado igual, la respuesta correcta será la tercera alternativa, IGUALES.",
+      "type": "TEXT",
+      "module_id": 5
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod5/answer-5141.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-5142.jpg"
+      },
+      {
+        "description": "IGUALES",
+        "type": "TEXT",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Compara las cantidades resultantes de resolver problemas numéricos, para ver cuál es la MAYOR. Cuando las dos den un resultado igual, la respuesta correcta será la tercera alternativa, IGUALES.",
+      "type": "TEXT",
+      "module_id": 5
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod5/answer-5151.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod6/answer-5152.jpg"
+      },
+      {
+        "description": "IGUALES",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Compara las cantidades resultantes de resolver problemas numéricos, para ver cuál es la MAYOR. Cuando las dos den un resultado igual, la respuesta correcta será la tercera alternativa, IGUALES.",
+      "type": "TEXT",
+      "module_id": 5
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod5/answer-5161.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod6/answer-5162.jpg"
+      },
+      {
+        "description": "IGUALES",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Compara las cantidades resultantes de resolver problemas numéricos, para ver cuál es la MAYOR. Cuando las dos den un resultado igual, la respuesta correcta será la tercera alternativa, IGUALES.",
+      "type": "TEXT",
+      "module_id": 5
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod5/answer-5171.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod6/answer-5172.jpg"
+      },
+      {
+        "description": "IGUALES",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Compara las cantidades resultantes de resolver problemas numéricos, para ver cuál es la MAYOR. Cuando las dos den un resultado igual, la respuesta correcta será la tercera alternativa, IGUALES.",
+      "type": "TEXT",
+      "module_id": 5
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod5/answer-5181.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-5182.jpg"
+      },
+      {
+        "description": "IGUALES",
+        "type": "TEXT",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Compara las cantidades resultantes de resolver problemas numéricos, para ver cuál es la MAYOR. Cuando las dos den un resultado igual, la respuesta correcta será la tercera alternativa, IGUALES.",
+      "type": "TEXT",
+      "module_id": 5
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod5/answer-5191.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod6/answer-5192.jpg"
+      },
+      {
+        "description": "IGUALES",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Compara las cantidades resultantes de resolver problemas numéricos, para ver cuál es la MAYOR. Cuando las dos den un resultado igual, la respuesta correcta será la tercera alternativa, IGUALES.",
+      "type": "TEXT",
+      "module_id": 5
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod5/answer-5201.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-5202.jpg"
+      },
+      {
+        "description": "IGUALES",
+        "type": "TEXT",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Compara las cantidades resultantes de resolver problemas numéricos, para ver cuál es la MAYOR. Cuando las dos den un resultado igual, la respuesta correcta será la tercera alternativa, IGUALES.",
+      "type": "TEXT",
+      "module_id": 5
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod5/answer-5211.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-5212.jpg"
+      },
+      {
+        "description": "IGUALES",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Compara las cantidades resultantes de resolver problemas numéricos, para ver cuál es la MAYOR. Cuando las dos den un resultado igual, la respuesta correcta será la tercera alternativa, IGUALES.",
+      "type": "TEXT",
+      "module_id": 5
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod5/answer-5221.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod6/answer-5222.jpg"
+      },
+      {
+        "description": "IGUALES",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Compara las cantidades resultantes de resolver problemas numéricos, para ver cuál es la MAYOR. Cuando las dos den un resultado igual, la respuesta correcta será la tercera alternativa, IGUALES.",
+      "type": "TEXT",
+      "module_id": 5
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod5/answer-5231.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-5232.jpg"
+      },
+      {
+        "description": "IGUALES",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Compara las cantidades resultantes de resolver problemas numéricos, para ver cuál es la MAYOR. Cuando las dos den un resultado igual, la respuesta correcta será la tercera alternativa, IGUALES.",
+      "type": "TEXT",
+      "module_id": 5
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod5/answer-5241.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod6/answer-5242.jpg"
+      },
+      {
+        "description": "IGUALES",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Compara las cantidades resultantes de resolver problemas numéricos, para ver cuál es la MAYOR. Cuando las dos den un resultado igual, la respuesta correcta será la tercera alternativa, IGUALES.",
+      "type": "TEXT",
+      "module_id": 5
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod5/answer-5251.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-5252.jpg"
+      },
+      {
+        "description": "IGUALES",
+        "type": "TEXT",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Compara las cantidades resultantes de resolver problemas numéricos, para ver cuál es la MAYOR. Cuando las dos den un resultado igual, la respuesta correcta será la tercera alternativa, IGUALES.",
+      "type": "TEXT",
+      "module_id": 5
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod5/answer-5261.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-5262.jpg"
+      },
+      {
+        "description": "IGUALES",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Compara las cantidades resultantes de resolver problemas numéricos, para ver cuál es la MAYOR. Cuando las dos den un resultado igual, la respuesta correcta será la tercera alternativa, IGUALES.",
+      "type": "TEXT",
+      "module_id": 5
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod5/answer-5271.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-5272.jpg"
+      },
+      {
+        "description": "IGUALES",
+        "type": "TEXT",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Compara las cantidades resultantes de resolver problemas numéricos, para ver cuál es la MAYOR. Cuando las dos den un resultado igual, la respuesta correcta será la tercera alternativa, IGUALES.",
+      "type": "TEXT",
+      "module_id": 5
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod5/answer-5281.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-5282.jpg"
+      },
+      {
+        "description": "IGUALES",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Compara las cantidades resultantes de resolver problemas numéricos, para ver cuál es la MAYOR. Cuando las dos den un resultado igual, la respuesta correcta será la tercera alternativa, IGUALES.",
+      "type": "TEXT",
+      "module_id": 5
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod5/answer-5291.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-5292.jpg"
+      },
+      {
+        "description": "IGUALES",
+        "type": "TEXT",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Compara las cantidades resultantes de resolver problemas numéricos, para ver cuál es la MAYOR. Cuando las dos den un resultado igual, la respuesta correcta será la tercera alternativa, IGUALES.",
+      "type": "TEXT",
+      "module_id": 5
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod5/answer-5301.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-5302.jpg"
+      },
+      {
+        "description": "IGUALES",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Compara las cantidades resultantes de resolver problemas numéricos, para ver cuál es la MAYOR. Cuando las dos den un resultado igual, la respuesta correcta será la tercera alternativa, IGUALES.",
+      "type": "TEXT",
+      "module_id": 5
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod5/answer-5311.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-5312.jpg"
+      },
+      {
+        "description": "IGUALES",
+        "type": "TEXT",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "Compara las cantidades resultantes de resolver problemas numéricos, para ver cuál es la MAYOR. Cuando las dos den un resultado igual, la respuesta correcta será la tercera alternativa, IGUALES.",
+      "type": "TEXT",
+      "module_id": 5
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod5/answer-5321.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod6/answer-5322.jpg"
+      },
+      {
+        "description": "IGUALES",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod6/question-61.jpg",
+      "module_id": 6
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-611.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-612.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod6/answer-613.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-614.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod6/question-62.jpg",
+      "module_id": 6
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod6/answer-621.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-622.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-623.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-624.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod6/question-63.jpg",
+      "module_id": 6
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-631.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod6/answer-632.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-633.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-634.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod6/question-64.jpg",
+      "module_id": 6
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-641.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-642.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-643.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod6/answer-644.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod6/question-65.jpg",
+      "module_id": 6
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-651.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod6/answer-652.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-653.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-654.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod6/question-66.jpg",
+      "module_id": 6
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod6/answer-661.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-662.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-663.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-664.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod6/question-67.jpg",
+      "module_id": 6
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-671.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-672.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod6/answer-673.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-674.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod6/question-68.jpg",
+      "module_id": 6
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-681.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-682.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-683.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod6/answer-684.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod6/question-69.jpg",
+      "module_id": 6
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-691.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-692.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod6/answer-693.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-694.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod6/question-610.jpg",
+      "module_id": 6
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6101.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6102.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod6/answer-6103.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6104.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod6/question-611.jpg",
+      "module_id": 6
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6111.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6112.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6113.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod6/answer-6114.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod6/question-612.jpg",
+      "module_id": 6
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6121.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6122.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6123.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod6/answer-6124.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod6/question-613.jpg",
+      "module_id": 6
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod6/answer-6131.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6132.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6133.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6134.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod6/question-614.jpg",
+      "module_id": 6
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6141.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6142.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6143.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod6/answer-6144.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod6/question-615.jpg",
+      "module_id": 6
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod6/answer-6151.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6152.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6153.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6154.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod6/question-616.jpg",
+      "module_id": 6
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6161.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod6/answer-6162.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6163.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6164.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod6/question-617.jpg",
+      "module_id": 6
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6171.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6172.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6173.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod6/answer-6174.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod6/question-618.jpg",
+      "module_id": 6
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6181.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6182.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod6/answer-6183.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6184.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod6/question-619.jpg",
+      "module_id": 6
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod6/answer-6191.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6192.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6193.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6194.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod6/question-620.jpg",
+      "module_id": 6
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod6/answer-6201.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6202.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6203.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6204.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod6/question-621.jpg",
+      "module_id": 6
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6211.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod6/answer-6212.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6213.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6214.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod6/question-622.jpg",
+      "module_id": 6
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6221.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6222.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6223.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod6/answer-6224.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod6/question-623.jpg",
+      "module_id": 6
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6231.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6232.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod6/answer-6233.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6234.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod6/question-624.jpg",
+      "module_id": 6
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6241.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6242.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod6/answer-6243.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6244.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod6/question-625.jpg",
+      "module_id": 6
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod6/answer-6251.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6252.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6253.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6254.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod6/question-626.jpg",
+      "module_id": 6
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6261.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod6/answer-6262.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6263.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6264.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod6/question-627.jpg",
+      "module_id": 6
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6271.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6272.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod6/answer-6273.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6274.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod6/question-628.jpg",
+      "module_id": 6
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6281.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod6/answer-6282.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6283.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6284.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod6/question-629.jpg",
+      "module_id": 6
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6291.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod6/answer-6292.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6293.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6294.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod6/question-630.jpg",
+      "module_id": 6
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6301.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6302.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6303.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod6/answer-6304.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod6/question-631.jpg",
+      "module_id": 6
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod6/answer-6311.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6312.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6313.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6314.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "IMAGE",
+      "resource": "/mod6/question-632.jpg",
+      "module_id": 6
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6321.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6322.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod6/answer-6323.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod6/answer-6324.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "¿En qué día, mes y año se sitúa este relato?",
+      "type": "TEXT",
+      "module_id": 7
+    },
+    "answers": [
+      {
+        "description": "un día de octubre de 1 776",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "25 de octubre de 1 776",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "un día de agosto de 1 980",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "¿Por qué no avanzaban apenas aquel día?",
+      "type": "TEXT",
+      "module_id": 7
+    },
+    "answers": [
+      {
+        "description": "por la fuerte tormenta",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "por ausencia de viento",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "por la niebla y lluvia",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "¿Dónde estaba matriculado el barco con el que se cruzaron?",
+      "type": "TEXT",
+      "module_id": 7
+    },
+    "answers": [
+      {
+        "description": "en Londres",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "en París",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "en Quebec",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "¿Qué tenía el capitán del Victoria en lugar del brazo?",
+      "type": "TEXT",
+      "module_id": 7
+    },
+    "answers": [
+      {
+        "description": "un hueso a modo de garfio",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "un brazo artificial de madera",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "un hueso de cachalote",
+        "type": "TEXT",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "¿Qué miembro había perdido el capitán Philip?",
+      "type": "TEXT",
+      "module_id": 7
+    },
+    "answers": [
+      {
+        "description": "una pierna",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "un brazo",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "un brazo y una pierna",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "¿En qué pasaron al barco?",
+      "type": "TEXT",
+      "module_id": 7
+    },
+    "answers": [
+      {
+        "description": "remando, en una balsa",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "en una pequeña lancha auxiliar",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "en un bote de remos",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "¿Quiénes llevaron al capitán Philip al Victoria?",
+      "type": "TEXT",
+      "module_id": 7
+    },
+    "answers": [
+      {
+        "description": "sus hombres de confianza",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "cuatro remeros",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "cuatro de sus oficiales",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "¿Qué hicieron a modo de saludo ambos capitanes?",
+      "type": "TEXT",
+      "module_id": 7
+    },
+    "answers": [
+      {
+        "description": "nada, no eran ceremoniosos",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "un apretón de manos",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "entrechocaron sus huesos",
+        "type": "TEXT",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "¿En qué zona tuvo lugar el encuentro con Moby Dick?",
+      "type": "TEXT",
+      "module_id": 7
+    },
+    "answers": [
+      {
+        "description": "no se precisa en el relato",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "en el Ecuador",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "en alta mar",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "¿Cuándo se había encontrado con Moby Dick?",
+      "type": "TEXT",
+      "module_id": 7
+    },
+    "answers": [
+      {
+        "description": "la temporada pasada",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "hacía unos pocos meses",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "hacía ya mucho tiempo",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "¿Qué hicieron al ver los cinco cachalotes?",
+      "type": "TEXT",
+      "module_id": 7
+    },
+    "answers": [
+      {
+        "description": "seguir adelante buscando ballenas",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "salir en su persecución",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "esperar a ver a Moby Dick",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "¿Cuántas veces había pescado en aquella zona?",
+      "type": "TEXT",
+      "module_id": 7
+    },
+    "answers": [
+      {
+        "description": "era la primera vez",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "a menudo",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "dos temporadas",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "¿A quién habían clavado el primer arpón?",
+      "type": "TEXT",
+      "module_id": 7
+    },
+    "answers": [
+      {
+        "description": "a Moby Dick",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "a una enorme ballena",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "a uno de los cachalotes",
+        "type": "TEXT",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "¿De dónde surgió Moby Dick?",
+      "type": "TEXT",
+      "module_id": 7
+    },
+    "answers": [
+      {
+        "description": "de entre los cachalotes",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "del fondo del mar",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "de las profundidades",
+        "type": "TEXT",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "¿Cómo se describe a Moby Dick?",
+      "type": "TEXT",
+      "module_id": 7
+    },
+    "answers": [
+      {
+        "description": "enorme, blanca, con joroba y callosidades",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "con joroba, feroz, asesina",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "con manchas negras y callosidades",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "¿Qué se le enredó a Moby Dick?",
+      "type": "TEXT",
+      "module_id": 7
+    },
+    "answers": [
+      {
+        "description": "las redes",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "un cable",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "varios arpones",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "¿Dónde se le había enredado?",
+      "type": "TEXT",
+      "module_id": 7
+    },
+    "answers": [
+      {
+        "description": "entre sus callosidades y joroba",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "entre los arpones que tenía clavados",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "entre los dientes",
+        "type": "TEXT",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "¿Quién lanzó el arpón a Moby Dick?",
+      "type": "TEXT",
+      "module_id": 7
+    },
+    "answers": [
+      {
+        "description": "un marinero",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "el capitán",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "el primer oficial",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "¿Reconoció el capitán a Moby Dick?",
+      "type": "TEXT",
+      "module_id": 7
+    },
+    "answers": [
+      {
+        "description": "era la primera vez que lo veía",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "la reconoció enseguida",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "ya la había visto otra vez",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "¿Qué hizo Moby Dick con la cola?",
+      "type": "TEXT",
+      "module_id": 7
+    },
+    "answers": [
+      {
+        "description": "hirió al capitán en el brazo",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "tiró a los que iban en el primer bote",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "partió el bote en dos",
+        "type": "TEXT",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "¿Qué tenía Moby Dick en diversas partes del cuerpo?",
+      "type": "TEXT",
+      "module_id": 7
+    },
+    "answers": [
+      {
+        "description": "manchas blancas",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "otros arpones clavados",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "manchas de antiguas heridas",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "¿Con qué se compara cuando estuvo agarrado al arpón?",
+      "type": "TEXT",
+      "module_id": 7
+    },
+    "answers": [
+      {
+        "description": "a la oscilación del péndulo de un reloj",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "a lo embravecido del movimiento de las olas",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "a la trayectoria del arpón",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "¿Dónde se agarró el capitán?",
+      "type": "TEXT",
+      "module_id": 7
+    },
+    "answers": [
+      {
+        "description": "a unas tablas del bote",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "al arpón que él mismo había clavado",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "al bote del primer oficial",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "¿Cuánto tiempo estuvo agarrado?",
+      "type": "TEXT",
+      "module_id": 7
+    },
+    "answers": [
+      {
+        "description": "unos instantes",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "varios minutos",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "mientras le arrastraba",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "¿Quién cuenta los detalles de la herida?",
+      "type": "TEXT",
+      "module_id": 7
+    },
+    "answers": [
+      {
+        "description": "el narrador, en tercera persona",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "el propio capitán",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "el doctor",
+        "type": "TEXT",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "¿Qué le recomendó inicialmente el doctor al capitán?",
+      "type": "TEXT",
+      "module_id": 7
+    },
+    "answers": [
+      {
+        "description": "evitar la gangrena",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "cortar el brazo",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "poner rumbo a la tierra más cercana",
+        "type": "TEXT",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "¿Cuándo se enteró el capitán del Victoria de la fama de ferocidad de Moby Dick?",
+      "type": "TEXT",
+      "module_id": 7
+    },
+    "answers": [
+      {
+        "description": "al cabo de unos meses",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "en ese mismo instante",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "a los pocos días",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "¿ Vio a Moby Dick alguna vez más el capitán del Victoria?",
+      "type": "TEXT",
+      "module_id": 7
+    },
+    "answers": [
+      {
+        "description": "un par de veces",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "una sola vez más",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "sólo los d ias siguientes",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "¿Dónde la vio por última vez?",
+      "type": "TEXT",
+      "module_id": 7
+    },
+    "answers": [
+      {
+        "description": "cerca de las islas Fároe",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "en el Ecuador",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "cerca del archipiélago de Madeira",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "¿Cómo se llamaba el barco del capitán Philip?",
+      "type": "TEXT",
+      "module_id": 7
+    },
+    "answers": [
+      {
+        "description": "el Pequod",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "el Victoria",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "el Bella Vista",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "¿Qué rumbo tomó el capitán Philip para continuar la búsqueda?",
+      "type": "TEXT",
+      "module_id": 7
+    },
+    "answers": [
+      {
+        "description": "al norte",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "al este",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "al sur",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "¿Por qué el capitán del Victoria no quería seguir buscando a Moby Dick?",
+      "type": "TEXT",
+      "module_id": 7
+    },
+    "answers": [
+      {
+        "description": "lo consideraba ya inútil",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "si queria, para vengarse",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "para no arriesgar vidas humanas",
+        "type": "TEXT",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 8
+    },
+    "answers": [
+      {
+        "description": "barbilla",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "revivir",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "alcool.",
+        "type": "TEXT",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 8
+    },
+    "answers": [
+      {
+        "description": "pavimento",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "diván",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "hoblspo",
+        "type": "TEXT",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 8
+    },
+    "answers": [
+      {
+        "description": "provocar",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "venevolencia",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "bahía",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 8
+    },
+    "answers": [
+      {
+        "description": "convexo",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "benigno",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "halergia",
+        "type": "TEXT",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 8
+    },
+    "answers": [
+      {
+        "description": "enturbiar",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "flecsible",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "carabela",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 8
+    },
+    "answers": [
+      {
+        "description": "hoyente",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "vigía",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "hospedaje",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 8
+    },
+    "answers": [
+      {
+        "description": "axfixia",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "exclusivo",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "estrenar",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 8
+    },
+    "answers": [
+      {
+        "description": "injerto",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "objetibo",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "hondo",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 8
+    },
+    "answers": [
+      {
+        "description": "inolvidable",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "rebés",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "jubilarse",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 8
+    },
+    "answers": [
+      {
+        "description": "hóvalo",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "ondular",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "elíptico",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 8
+    },
+    "answers": [
+      {
+        "description": "advertir",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "microvio",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "joya",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 8
+    },
+    "answers": [
+      {
+        "description": "abedul",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "lobezno",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "bocavulario",
+        "type": "TEXT",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 8
+    },
+    "answers": [
+      {
+        "description": "rebólver",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "acceso",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "ahogar",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 8
+    },
+    "answers": [
+      {
+        "description": "disolver",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "ardor",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "lóvulo",
+        "type": "TEXT",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 8
+    },
+    "answers": [
+      {
+        "description": "abdomen",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "cerbeza",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "valija",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 8
+    },
+    "answers": [
+      {
+        "description": "elavorar",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "divisar",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "extraviar",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 8
+    },
+    "answers": [
+      {
+        "description": "atrayente",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "hebanista",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "envasar",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 8
+    },
+    "answers": [
+      {
+        "description": "viveza",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "bisabuelo",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "bálbula",
+        "type": "TEXT",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 8
+    },
+    "answers": [
+      {
+        "description": "vaho",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "biombo",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "trivunal",
+        "type": "TEXT",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 8
+    },
+    "answers": [
+      {
+        "description": "allazgo",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "ahondar",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "abordar",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 8
+    },
+    "answers": [
+      {
+        "description": "ipnotizar",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "innovar",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "anhelar",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 8
+    },
+    "answers": [
+      {
+        "description": "rebelde",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "ábil",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "encaje",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 8
+    },
+    "answers": [
+      {
+        "description": "harpón",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "arpa",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "halcón",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 8
+    },
+    "answers": [
+      {
+        "description": "deshonra",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "diversidad",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "desbán",
+        "type": "TEXT",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 8
+    },
+    "answers": [
+      {
+        "description": "lavabo",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "cabidad",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "balonvolea",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 8
+    },
+    "answers": [
+      {
+        "description": "dirijible",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "imagen",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "pingajo",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 8
+    },
+    "answers": [
+      {
+        "description": "embalaje",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "divergente",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "javalí",
+        "type": "TEXT",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 8
+    },
+    "answers": [
+      {
+        "description": "homenajear",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "olgazán",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "obesidad",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 8
+    },
+    "answers": [
+      {
+        "description": "glóbulo",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "clavija",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "homnívoro",
+        "type": "TEXT",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 8
+    },
+    "answers": [
+      {
+        "description": "emorragia",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "expirar",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "malhechor",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 8
+    },
+    "answers": [
+      {
+        "description": "avalanzar",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "través",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "divorcio",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 8
+    },
+    "answers": [
+      {
+        "description": "rebasar",
+        "type": "TEXT",
+        "value": 0
+      },
+      {
+        "description": "esquibar",
+        "type": "TEXT",
+        "value": 1
+      },
+      {
+        "description": "haba",
+        "type": "TEXT",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 9
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-911.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-912.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod9/answer-913.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 9
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod9/answer-921.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-922.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-923.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 9
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-931.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod9/answer-932.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-933.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 9
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-941.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-942.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod9/answer-943.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 9
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod9/answer-951.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-952.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-953.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 9
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-961.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod9/answer-962.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-963.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 9
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-971.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod9/answer-972.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-973.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 9
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-981.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod9/answer-982.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-983.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 9
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-991.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-992.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod9/answer-993.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 9
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9101.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod9/answer-9102.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9103.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 9
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod9/answer-9111.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9112.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9113.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 9
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9121.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9122.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod9/answer-9123.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 9
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod9/answer-9131.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9132.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9133.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 9
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod9/answer-9141.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9142.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9143.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 9
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9151.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9152.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod9/answer-9153.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 9
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9161.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9162.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod9/answer-9163.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 9
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod9/answer-9171.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9172.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9173.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 9
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9181.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9182.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod9/answer-9183.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 9
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9191.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod9/answer-9192.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9193.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 9
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9201.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod9/answer-9202.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9203.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 9
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod9/answer-9211.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9212.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9213.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 9
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9221.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9222.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod9/answer-9223.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 9
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9231.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod9/answer-9232.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9233.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 9
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9241.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod9/answer-9242.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9243.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 9
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9251.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9252.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod9/answer-9253.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 9
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod9/answer-9261.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9262.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9263.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 9
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod9/answer-9271.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9272.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9273.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 9
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9281.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod9/answer-9282.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9283.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 9
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod9/answer-9291.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9292.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9293.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 9
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9301.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9302.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod9/answer-9303.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 9
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod9/answer-9311.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9312.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9313.jpg"
+      }
+    ]
+  },
+  {
+    "question": {
+      "description": "",
+      "type": "TEXT",
+      "module_id": 9
+    },
+    "answers": [
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9321.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 0,
+        "resource": "/mod9/answer-9322.jpg"
+      },
+      {
+        "description": "",
+        "type": "IMAGE",
+        "value": 1,
+        "resource": "/mod9/answer-9323.jpg"
+      }
+    ]
+  }
+]
